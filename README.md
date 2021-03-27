@@ -4,7 +4,6 @@
 - javascript를 활용한 반응형 웹페이지
 - felxbox 사용
 - 'Prev'와 'Next'버튼을 누를 때마다 progress bar와 circle이 채워지거나 비워짐
-- 
 
 ## 2. 사용기술
 - HTML
